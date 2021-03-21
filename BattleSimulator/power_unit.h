@@ -4,6 +4,7 @@
 
 #include "base_unit.h"
 
+// I added a comment
 class PowerUnit : public BaseUnit
 {
 public:
